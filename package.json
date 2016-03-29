@@ -1,5 +1,5 @@
 {
-  "name": "Julian-api-express",
+  "name": "express-api",
   "version": "0.0.1",
   "description": "Julian API express版",
   "main": "server/app.js",

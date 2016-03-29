@@ -1,4 +1,4 @@
-# api express版
+# express版 api server
 
 
 
@@ -11,7 +11,7 @@ mognodb 3.0+
 ## 开发
 ```
 $ npm install
-$ gulp serve
+$ npm start
 ```
 配合客户端测试的测试模式   
  
@@ -22,7 +22,7 @@ $ gulp serve:test
 
 ## 测试
 ```
-$ gulp test
+$ npm run test
 ```
 
 ## License
