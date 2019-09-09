@@ -1,5 +1,7 @@
 # express版 api server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/Julian-api-express.svg)](https://greenkeeper.io/)
+
 
 
 ## 环境准备
